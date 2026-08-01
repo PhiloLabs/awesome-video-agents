@@ -41,6 +41,7 @@ End-to-end systems that span understanding, editing, and generation under a sing
 - [video-db/Director](https://github.com/video-db/Director) — Open-source framework for building video agents that reason across search, edit, compile, and generate over a VideoDB backend. `code`
 - [HKUDS/ViMax](https://github.com/HKUDS/ViMax) — 12 specialized agents (director, screenwriter, producer, etc.) for end-to-end multi-shot video generation with RAG long-script design. `code`
 - [diffusionstudio/agent](https://github.com/diffusionstudio/agent) — Agentic video editing framework built on a browser-based WebCodecs compositing engine. `code`
+- [OrkasVideoStudio](https://github.com/Orkas-AI/Orkas-VideoStudio) — Local-first CLI and MCP toolkit for agents to plan, compose, generate, and edit videos. `code`
 
 ## Multi-Agent Pipelines (Director / Writer / Editor)
 
