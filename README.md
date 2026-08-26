@@ -103,6 +103,7 @@ Agents and MCP servers that let LLMs drive professional editors (Premiere, DaVin
 - [lordhoell/davinci-resolve-mcp](https://github.com/lordhoell/davinci-resolve-mcp) — Claude Code skill + MCP exposing 440+ DaVinci Resolve tools for AI-assisted editing, color, and rendering. `code`
 - [wizenheimer/vibestudio](https://github.com/wizenheimer/vibestudio) — Headless zero-runtime FFmpeg MCP server in pure Bash for agent-driven editing pipelines. `code`
 - [burningion/video-editing-mcp](https://github.com/burningion/video-editing-mcp) — MCP interface for Video Jungle that produces OpenTimelineIO projects for DaVinci Resolve. `code`
+- [blitzreels/agent-skills](https://github.com/blitzreels/agent-skills) — Skills for agents to inspect, edit, validate, and export video through BlitzReels MCP and CLI. `code`
 - [remyxai/FFMPerative](https://github.com/remyxai/FFMPerative) — LLM-powered chat copilot that composes FFmpeg edits from natural language. `code`
 - [BAAI-Agents/Cradle](https://github.com/BAAI-Agents/Cradle) — Generalist computer-control agent (screen-in, keyboard/mouse-out) that can drive CapCut, Meitu, and other editors. [`paper`](https://arxiv.org/abs/2403.03186) `code`
 - [showlab/Kiwi-Edit](https://github.com/showlab/Kiwi-Edit) — Unified open-source framework for instruction-guided and reference-guided video editing in natural language. [`paper`](https://arxiv.org/abs/2603.02175) `code`
