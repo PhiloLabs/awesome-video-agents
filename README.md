@@ -106,6 +106,7 @@ Agents and MCP servers that let LLMs drive professional editors (Premiere, DaVin
 - [remyxai/FFMPerative](https://github.com/remyxai/FFMPerative) — LLM-powered chat copilot that composes FFmpeg edits from natural language. `code`
 - [BAAI-Agents/Cradle](https://github.com/BAAI-Agents/Cradle) — Generalist computer-control agent (screen-in, keyboard/mouse-out) that can drive CapCut, Meitu, and other editors. [`paper`](https://arxiv.org/abs/2403.03186) `code`
 - [showlab/Kiwi-Edit](https://github.com/showlab/Kiwi-Edit) — Unified open-source framework for instruction-guided and reference-guided video editing in natural language. [`paper`](https://arxiv.org/abs/2603.02175) `code`
+- [VideoGen MCP](https://github.com/video-gen/videogen-mcp) — MCP for [video creation](https://videogen.io/videogen-mcp), editing and export; paid VideoGen service. `code`
 
 ## Related Surveys & Papers
 
