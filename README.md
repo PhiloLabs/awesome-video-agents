@@ -62,6 +62,7 @@ Systems that explicitly simulate film-crew roles via multi-agent collaboration.
 
 Agents focused on editing existing footage — cut planning, trimming, montage, color, captions.
 
+- [Orkas (VideoStudio)](https://github.com/Orkas-AI/Orkas) — VideoStudio agent in an open-source desktop app for reference-guided video planning, production, and editing. `code`
 - [browser-use/video-use](https://github.com/browser-use/video-use) — Edit videos with Claude Code: word-boundary cuts, color grading, subtitles, self-evaluating output. Designed as a Claude Code skill. `code`
 - [GVCLab/CutClaw](https://github.com/GVCLab/CutClaw) — Autonomous multi-agent framework for hours-long montage editing with music synchronization (Playwriter / Editor / Reviewer agents). [`paper`](https://arxiv.org/abs/2603.29664) `code`
 - [EditDuet](https://arxiv.org/abs/2509.10761) — Editor + Critic multi-agent system for non-linear video editing from natural language (SIGGRAPH 2025, Adobe Research). `paper`
