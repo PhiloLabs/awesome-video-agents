@@ -68,6 +68,7 @@ Agents focused on editing existing footage — cut planning, trimming, montage, 
 - [LAVE](https://www.dgp.toronto.edu/~bryanw/lave/) — LLM-powered plan-and-execute agent for video editing with language-augmented UI (IUI 2024). [`paper`](https://arxiv.org/abs/2402.10294)
 - [GLANCE](https://arxiv.org/abs/2604.05076) — Global-local coordination multi-agent framework for music-grounded non-linear mashup editing. `paper`
 - [Prompt-Driven Agentic Video Editing](https://memories.ai/research/Agentic-Video-Editing) — Modular pipeline using hierarchical semantic indexing for long-form, story-driven editing. [`paper`](https://arxiv.org/abs/2509.16811)
+- [Valmera](https://valmera.io) — Hosted MCP video editor for agent-led cuts, captions, reframing and reviewed MP4 export; account and paid plan required.
 
 ## Video Generation / Production Agents
 
